@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World!</title>
+  
+    <style>
+    body{ padding: 25px;
+    }
+    .title {
+      color: #5C6AC4;
+    }
+    h2{
+      color: green;
+    }
+    h3{
+      color: rgb(5, 49, 183);
+    }
+   </style>
+  </head>
+  <body>
+    <header> 
+      <h1 class="title">Sara Hany Mostafa </h1>
+      <h2>Junior Frontend Developer</h2>
+      <ul>
+        <li>123 street</li>
+        <li>Giza, ST 12345</li>
+        <li>1233554564</li>
+        <li>sara6hany@gmail.com</li>
+      </ul>
+    </header>
+     
+    <main>
+      <h2>Skills</h2>
+      <p>HTML, CSS, JavaScript, Responsive Web Design, UI/UX</p>
+      
+      <h2>Education</h2>
+      <h3>Computer Science & Artificial Intelligence</h3>
+      <h4>Cairo University - Information System Department</h4>
+      <p>Sept 2024 to Aug 2028</p>
+
+      <h3>Projects</h3>
+      <p><strong>Yummy website</strong></p>
+       <p>Recipes website, It was a team work project
+      ; we use:<ul><li>html</li> <li>css</li> <li>js</li> <li>django</li> <li>python</li></ul>  </p>
+
+      <h2>Experience</h2>
+      <h3>Mathematics Teacher Assistant</h3>
+      <p>Feb 2025 to March 2026</p>
+      <p>Skills: how to work with students , how to explain , make quizzes and answer quetions.</p>
+    </main>
+    <footer>
+    <h2>Contact Me</h2>
+    <ul>
+    <li>Email: <a href="mailto:sara6hany@gmail.com" target="_blank">sara6hany@gmail.com</a></li>
+    <li>Github: <a href="https://github.com/sue687608" target="_blank">github.com/sue687608</a></li>
+    </ul>
+    </footer>  
+      
+  </body>
+</html>
